@@ -1,5 +1,11 @@
 # MultiHealth: Multi-Dimensional Urban and Environmental Exposures and Inequality for Health in Multiple Cities
 
+| Week | Progress |
+|----------|----------|
+| 19  | |
+| 20  | |
+
+
 Week 19 (8/5 - 14/5):
 
 During this week I’ve worked on the project from Wednesday onwards, due to classes on Monday and Wednesday and assignments for the Data Intensive Systems course, during my work on the project this week I have primarily focused on calculating the distance from the grid centroids to POIs such as bus stops.
